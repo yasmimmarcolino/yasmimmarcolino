@@ -1,6 +1,4 @@
 
-<!--
-**yasmimmarcolino/yasmimmarcolino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
 
 # ✦ Yasmim Marcolino ✦
@@ -47,4 +45,4 @@ I'm a student building my skills in software development, technology and product
 - Product & Technology
 
 
--->
+
