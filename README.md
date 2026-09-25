@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./image4.png" alt="Banner GitHub Yasmim Marcolino" width="100%" />
+</p>
 <div align="center">
 
 # ✦ Yasmim Marcolino ✦
