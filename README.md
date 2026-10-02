@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# ✦ Yasmim Marcolino ✦
+# ✦ Yasmim Ferreira Marcolino ✦
 
 ### Technology • Software Development • Product
 
